@@ -1,8 +1,10 @@
 # A -Comprehensive -Measure -of- Well-Being
 # HDI Prediction System
 
-🎥 **Demo Video:** [Add your demo video link here]
-🚀 **Deployed App:**
+🎥 **Demo Video:** 
+
+🚀 **Deployed App:** https://hdi-prediction-system-aetdgnddijavzfycsxmi9n.streamlit.app/
+
 💻 **GitHub Repo:** https://github.com/vikashchitikela/A-Comprehensive-Measure-of-Well-Being
 ## Description
 
