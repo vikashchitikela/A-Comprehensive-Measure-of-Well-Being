@@ -1,1 +1,1 @@
-# A-Comprehensive-Measure-of-Well-Being
+# A Comprehensive Measure of Well-Being
