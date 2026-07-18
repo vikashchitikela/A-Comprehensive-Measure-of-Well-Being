@@ -1,7 +1,7 @@
 # A -Comprehensive -Measure -of- Well-Being
 # HDI Prediction System
 
-🎥 **Demo Video:** https://drive.google.com/file/d/1RU7i5S6H5etNvUD8rkscL35g8hGt7mwF/view?usp=drivesdk
+🎥 **Demo Video:** https://drive.google.com/file/d/1Lz2puo_OAQk7qLSjnpqvJ9RXd8FW5MUM/view?usp=sharing
 
 🚀 **Deployed App:** https://hdi-prediction-system-aetdgnddijavzfycsxmi9n.streamlit.app/
 
